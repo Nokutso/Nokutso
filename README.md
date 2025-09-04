@@ -4,13 +4,9 @@ Welcome to my GitHub profile. I'm a curious and driven tech enthusiast currently
 
 ### 🌱 What I'm currently learning:
 - Web Development (HTML, CSS, JavaScript)
-- C++ & Python programming
+- Beginner cybersecurity labs on TryHackMe
 - Git, GitHub and version control best practices
 - Databases (SQL & MongoDB)
-
-### 💻 Projects I'm working on:
-- 🍽️ Aaron’s Diner – A restaurant website with a responsive design and menu tabs
-- 💡 Interactive JavaScript UI projects (form validation, tabs, animations)
 
 ### 👀 I'm looking to:
 - Collaborate on beginner-friendly open-source projects
